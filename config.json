@@ -1,0 +1,5 @@
+{
+  "defaultModel": "gpt-5-mini",
+  "enableGpt5MiniForAllClients": true,
+  "note": "This is an application-level default. Actual availability depends on the runtime platform and licensing."
+}

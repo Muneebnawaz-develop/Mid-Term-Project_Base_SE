@@ -1,0 +1,7 @@
+
+{
+  "name": "HR CV-JD Match Assistant",
+  "description": "A production-ready HR tool to match Candidate CVs with Job Descriptions using client-side NLP, TF-IDF, and Cosine Similarity. Features text extraction from PDF/DOCX, skill matching, and PDF report generation."
+  ,"default_model": "gpt-5-mini",
+  "model_enabled_for_all_clients": true
+}
